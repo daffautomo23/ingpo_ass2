@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage> {
   final List<Map<String, dynamic>> dummyData = [
     {'nama': 'a', 'jumlahOrder': 1, 'omzet': 2000},
     {'nama': 'b', 'jumlahOrder': 2, 'omzet': 5000},
-    {'nama': 'b', 'jumlahOrder': 3, 'omzet': 14000},
+    {'nama': 'c', 'jumlahOrder': 3, 'omzet': 14000},
     //databasesnya diganti ges
     // List of dummy data, you'll replace this with actual data fetched from the database
   ];
